@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+
+.App {
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: ''Cormorant Garamond', serif';
+}
+
+.banner {
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    align-items: center;
+    font-size: 33px;
+
+}
+
+img.concept {
+    height: 650px;
+    position: relative;
+    bottom: 130px;
+}
+
+h1.the.concept {
+    position: relative;
+    bottom: 400px;
+}
+
+img.triangle {
+    height: 240px;
+    position: relative;
+    top: 65px;
+}
+
+h1.the.triangle {
+    
+}
+
+img.tree {
+    height: 240px;
+    position: relative;
+    top: 65px;
+}
+
+h1.the.tree {
+    
+}
+
+img.fish {
+    height: 260px;
+}
+
+h1.the.fish {
+    position: relative;
+    top: -70px;
+}
+
+img.elephant {
+    height: 325px;
+}
+
+element.style {
+    position: relative;
+    top: -70px;
+}
+
+@media (max-width: 744px) {
+    img.concept {
+        height: 400px;
+        top: -125px;
+    }
+
+    h1.the.concept {
+        top: -275px;
+    }
+
+    img.triangle {
+        height: 400px;
+    }
+
+    h1.the.triangle {
+        top: -170px;
+    }
+}
+
+@media (max-width: 400px) {
+    img.concept {
+        height: 190px;
+        top: -76px;
+    }
+
+    h1.the.concept {
+        font-size: 40px;
+        top: -155px;
+    }
+
+    img.triangle {
+        height: 190px;
+        top: -50px;
+    }
+
+    h1.the.triangle {
+        font-size: 40px;
+        top: -106px;
+    }
+
+    img.tree {
+        height: 190px;
+    }
+
+    h1.the.tree {
+        font-size: 40px;
+        top: -55px;
+    }
+
+    img.fish {
+        height: 190px;
+        top: -35px;
+        position: relative;
+    }
+
+    h1.the.fish {
+        font-size: 40px;
+        top: -90px;
+    }
+
+    img.elephant {
+        height: 190px;
+        position: relative;
+        top: -40px;
+    }
+
+    h1.the.elephant {
+        font-size: 40px;
+        top: -65px;
+        position: relative;
+    }
+}
