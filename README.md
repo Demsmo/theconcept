@@ -1,3 +1,14 @@
+This project was created as an expiriment to showcase my react.js ability using styled-components, framer-motion, and mobile responsiveness.
+
+view the live project on heroku - https://the-concept.herokuapp.com/
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
