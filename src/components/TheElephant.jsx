@@ -8,7 +8,8 @@ function TheElephant() {
     <motion.div 
     initial={{ opacity: 0 }}
     animate={{ opacity: 1 }}
-    exit={{ opacity: 0 }}>
+    transition={{ type: 'tween', duration: 1.5 }}
+    >
       <PageContainer>
           <ConceptImgs src={Elephant} ></ConceptImgs>
           <ConceptH1s>the elephant</ConceptH1s>

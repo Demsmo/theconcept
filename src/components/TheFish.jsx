@@ -8,7 +8,7 @@ function TheFish() {
     <motion.div 
     initial={{ opacity: 0 }}
     animate={{ opacity: 1 }}
-    exit={{ opacity: 0 }}
+    transition={{ type: 'tween', duration: 1.5 }}
     >
       <PageContainer>
           <ConceptImgs src={Fish} ></ConceptImgs>

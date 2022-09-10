@@ -6,9 +6,9 @@ import { ConceptDescription, ConceptH1s, ConceptImgs, PageContainer } from '../s
 export default function Home() {
   return (
     <motion.div 
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1, }}
-      exit={{ opacity: 0 }}
+    initial={{ opacity: 0 }}
+    animate={{ opacity: 1 }}
+    transition={{ type: 'tween', duration: 1.5 }}
     >
       <PageContainer>
         <ConceptImgs src={Concept} ></ConceptImgs>
