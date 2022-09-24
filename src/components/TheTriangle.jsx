@@ -14,7 +14,9 @@ function TheTriangle() {
           <ConceptImgs src={Triangle} ></ConceptImgs>
           <ConceptH1s>the triangle</ConceptH1s>
           <ConceptDescription>
-            this is some test writing to see how it appears on the page if i keep writing does it get smaller or break lines automatically
+            a symbol for change, an open door <br />
+            the triangle tells us that no matter what if we are dedicated <br />
+            the opportunity for change is always there. 
           </ConceptDescription>
         </PageContainer>
     </motion.div>

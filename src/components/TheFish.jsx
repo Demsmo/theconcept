@@ -14,7 +14,10 @@ function TheFish() {
           <ConceptImgs src={Fish} ></ConceptImgs>
           <ConceptH1s>the fish</ConceptH1s>
           <ConceptDescription>
-            this is some test writing to see how it appears on the page if i keep writing does it get smaller or break lines automatically
+            fuck it shit happens <br />
+            the fish represents the past and always moving forward. <br />
+            fish can only swim in one direction, but can constantly see behind them <br />
+            much like the sun we need the past to illuminate the future, but staring at it we will go blind.
           </ConceptDescription>
         </PageContainer>
     </motion.div>

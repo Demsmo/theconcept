@@ -14,7 +14,10 @@ function TheTree() {
           <ConceptImgs src={Tree} ></ConceptImgs>
           <ConceptH1s>the tree</ConceptH1s>
           <ConceptDescription>
-            this is some test writing to see how it appears on the page if i keep writing does it get smaller or break lines automatically
+            each branch of the tree is a decision, <br />
+            and each decision is an opportunity to utilize the triangle and change. <br />
+            inspired by the tree of life, the tree symbolizes the pathway we walk <br />
+            and how each step can be to a new branch, and new opportunity, and a new direction
           </ConceptDescription>
         </PageContainer>
     </motion.div>

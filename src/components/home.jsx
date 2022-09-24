@@ -14,11 +14,13 @@ export default function Home() {
         <ConceptImgs src={Concept} ></ConceptImgs>
         <ConceptH1s>the concept</ConceptH1s>
         <ConceptDescription>
-          this is some test writing to see how it appears on the page <br />
-          if i keep writing does it get smaller or break lines automatically. <br />
-           here i am writing more just to increase the length of this sample. <br />
-           this is to test how scrolling works on the webpage <br />
-           the concept is a method of living 
+          ever since i was young i have always been obsessed with symbolism, <br />
+          so it makes sense that i would create my own symbols to live by. <br />
+          this website is about those symbols. if you made it here, welcome. and thank you for reading. <br />
+          the concept, "the triangle, the tree, the fish, and the elephant" <br />
+          is a concept i have lived by for many years, and has helped me through many situations <br />
+          i hope that maybe it can help you too. please feel free to explore and read, i hope you enjoy. <br />
+          thank you - deming  
         </ConceptDescription>
       </PageContainer>
     </motion.div>

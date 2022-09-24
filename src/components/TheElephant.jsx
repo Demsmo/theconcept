@@ -14,7 +14,10 @@ function TheElephant() {
           <ConceptImgs src={Elephant} ></ConceptImgs>
           <ConceptH1s>the elephant</ConceptH1s>
           <ConceptDescription>
-            this is some test writing to see how it appears on the page if i keep writing does it get smaller or break lines automatically
+            inspired by the elephant in the room <br />
+            the elephant symbolizes the motivation to keep moving forward <br />
+            it is that feeling inside us that drives us, <br />
+            the motivates us for the need of change and reminds us to always keep moving.
           </ConceptDescription>
         </PageContainer>
     </motion.div>
