@@ -31,6 +31,6 @@ export const ConceptDescription = styled.p`
     margin: 20px;
 
     @media (max-width: 915px) {
-        font-size: 25px;
+        font-size: 20px;
     }
 `
